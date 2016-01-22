@@ -1,0 +1,16 @@
+html {
+  background: url(img/pingpong.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+#font {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+#query {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px
+}
